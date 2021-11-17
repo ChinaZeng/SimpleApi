@@ -1,0 +1,12 @@
+**/*.iml
+**/.gradle
+**/local.properties
+**/.idea
+**/.phrase.yml
+**/.DS_Store
+**/build
+**/bin
+**/venv
+**/.settings
+**/.project
+**/.vscode
